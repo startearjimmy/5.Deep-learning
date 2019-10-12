@@ -1,0 +1,5 @@
+1. DNN for binary classification
+2. DNN for 6 3 3 2
+3. try normalization
+4. which data affect most
+5. 
